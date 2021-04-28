@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Hexo Theme Landscape Demo</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://whyouare111.github.io/hexo-landscape-demo/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://whyouare111.github.io/hexo-landscape-demo/"/>
   <updated>2021-04-28T09:46:56.372Z</updated>
-  <id>http://example.com/</id>
+  <id>https://whyouare111.github.io/hexo-landscape-demo/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Alice</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>My First Post</title>
-    <link href="http://example.com/2021/04/28/my-first-post/"/>
-    <id>http://example.com/2021/04/28/my-first-post/</id>
+    <link href="https://whyouare111.github.io/hexo-landscape-demo/2021/04/28/my-first-post/"/>
+    <id>https://whyouare111.github.io/hexo-landscape-demo/2021/04/28/my-first-post/</id>
     <published>2021-04-28T09:46:56.000Z</published>
     <updated>2021-04-28T09:46:56.372Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/04/28/hello-world/"/>
-    <id>http://example.com/2021/04/28/hello-world/</id>
+    <link href="https://whyouare111.github.io/hexo-landscape-demo/2021/04/28/hello-world/"/>
+    <id>https://whyouare111.github.io/hexo-landscape-demo/2021/04/28/hello-world/</id>
     <published>2021-04-28T09:38:30.948Z</published>
     <updated>2021-04-28T09:38:30.949Z</updated>
     
